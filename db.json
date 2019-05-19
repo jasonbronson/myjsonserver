@@ -5,5 +5,12 @@
       "name": "John Doe",
       "last_login": "2019-01-22"
     }
+  ],
+  "user/details": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "last_login": "2019-01-22"
+    }
   ]
 }
